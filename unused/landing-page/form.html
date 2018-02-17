@@ -1,0 +1,275 @@
+  <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Gyan Khazana Landing form</title>
+        <link rel="stylesheet" href="materialize.min.css">
+        <link rel="stylesheet" href="form.css" >
+        <script src="form.js"></script>
+<script type="text/javascript" src="jquery.min.js"></script>
+<script type="text/javascript" src="script5.js"></script>
+            <script src="materialize.min.js"></script>
+
+
+        <script>
+         $(document).ready(function() {
+            $('select').material_select();
+         });
+      </script>
+      <style>
+.coupon-container{
+width:200px;
+height:400px;
+background:#e7e8e1; 
+margin-top:20%;
+border-radius:5%;
+margin-left:-35%;
+}
+.cpn-container1{
+background:#D00145;
+width:180px;
+height:160px;
+top:10px;
+
+margin-left:10px;
+margin-right:10px;
+position:relative;
+}
+
+.cpn-container{
+background:#D00145;
+width:180px;
+height:200px;
+top:10px;
+
+margin-left:10px;
+margin-right:10px;
+position:relative;
+}
+
+</style>
+    </head>
+    <body >
+        <div class="container" >
+            <div class="imagebg"></div>
+            <div class="row">
+                        <div class="col s12" id="reused_form" style="color:white">
+
+                                           
+
+                            <div class="row">
+                            
+                            
+                                <div class="input-field col s2">
+                                                               <div class="coupon-container" id="div2" style="display:block">
+                                                               <div class="cpn-container">
+<h3 id="dis_cpn" style="text-align:center;font-family:COMIC SANS"></h3>
+<p id="full_dis_cpn" style="text-align:center"></p>
+<!-- Have 20% Off by using this coupon.. -->
+
+<center><a id="subs_cpn" href=""><button style="width:100px;height:30px;background:#1abc9c;color:white;border:none;margin-top:15%">Subscribe</button></a></center>
+
+                                                            </div>
+
+
+
+
+                                                               <div class="cpn-container1">
+<h3 id="dis_cpn" style="text-align:center;font-family:COMIC SANS"></h3>
+<p id="full_dis_cpn" style="text-align:center"></p>
+<!-- Have 20% Off by using this coupon.. 
+
+<center><a id="subs_cpn" href=""><button style="width:100px;height:30px;background:#1abc9c;color:white;border:none;margin-top:15%">Subscribe</button></a></center>
+
+                                -->
+								<img src="images/animation-subscription.gif" style="width:100%">
+
+						     	
+
+								</div>
+
+                                                               </div>
+                                    </div>
+
+                                
+                                </div>
+
+                                </div>
+                                </div>
+            <!-- <div id="marqee">
+            <marquee style="color:white;font-size:25px">Hello!!!! Please use this coupon<a href="#"> Gyan10</a> for discount.</marquee>
+            </div> -->
+            <div class="container" style="margin-right:10%">
+                <div class="form-container z-depth-5" style="background-color:rgb(220,199,62,0.02);width:350px;">
+                    <div class="row">
+                        
+                    <form class="col s12" id="formid" style="color:white" method="post" action="Payment">
+                                            <h5>Subscribe Here</h5> 
+
+                            <div class="row">
+                                <div class="input-field col s6">
+                                                                <a class="btn submitbtn" href="OAuth2fb?request_ids=jjnjnj" style="background:#3b5998">Facebook</a>
+                                    </div>
+
+                                     <div class="input-field col s6">
+                                                                <a class="btn submitbtn" href="https://accounts.google.com/o/oauth2/auth?scope=email&redirect_uri=https://120.138.9.99:8080/gyankhazana/GmailLogin&response_type=code&client_id=53284543697-ngneh728tci79vqos6sfjhjbnv54cafo.apps.googleusercontent.com&approval_prompt=force" style="background:#FF0000">Google</a>
+                                    </div>
+                                </div>
+
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="name" type="text" name="name" required class="validate">
+                                    <label for="name">Name</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="email" type="email" name="email"  required class="validate">
+                                    <label for="email">Email</label>
+                                </div>
+                            </div>
+
+
+                            <div class="row">    
+                                                            <div class="input-field col s6">
+
+            <select name="age-group" required>
+                  <option value = "" disabled selected>Select Age Group</option>
+                  <option value="1-5">Less than 5</option>
+                                <option value="5-7">5 to 7 years</option>
+                                <option value="8-10">8-10 years</option>
+                                <option value="11-13">11-13 years</option>
+                                <option value="14-16">14-16 years</option>
+               </select>  
+  </div>
+        </div>
+
+                             <div class="row">
+                                <div class="input-field col s12">
+                                <input type="text" pattern="[7-9]{1}[0-9]{9}" maxlength="10" min="10" required class="validate" name="phone" id="phone"  required/>
+								<span id="mobile-no"><p>* Subscription SMS service will be sent to this registered mobile number.</p></span>
+                                    <!-- <input id="mobile" type="tel" name="mobile" required class="validate"> -->
+                                    <label for="mobile">Mobile</label>
+
+                                </div>
+                            </div>
+
+                
+                        
+                            <div class="row">
+                                <div class="input-field col s6">
+                                <input type="text" name="coupon" id="couponcode">
+                                  <!-- <input id="coupon" type="text" name="coupon" required class="validate"> -->
+
+                                    <label for="message">Coupon</label>
+                                </div>
+
+
+
+                                <div class="input-field col s6">
+
+                                <input type="button" id="couponbutton" class="btn submitbtn" value="Apply" style="background:#1abc9c" onclick="function1();">
+                                </div></div>
+                               <span id="couponmsg" style="margin-top:-1%;float:left;display:none">hello thankyou for applying coupon code...</span>
+                                                            
+                                                
+                                                           
+
+                                                
+<!--    <div class="items">
+<table style="padding:0;width:30%;font-size:20px">
+<tr>
+<td style="padding:0">Item : </td> 
+<td style="padding:0">1001   </td>
+</tr>
+
+<tr>
+<td style="padding:0">Item : </td> 
+<td style="padding:0">1001   </td>
+</tr>
+
+<tr>
+<td style="padding:0">Item : </td> 
+<td style="padding:0">1001   </td>
+</tr>
+
+</table>                           
+                            <div>-->
+                            
+                            <span id="couponmsg" style="color: white"></span>
+                                <table style="padding:0;width:30%;font-size:15px">
+                                <tr>
+                                <td id="itemtotal" style="padding:0">
+                                </td>
+                                </tr>
+                                <tr>
+                                <td id="totaldiscount" style="padding:0">
+                                </td>
+                                </tr>
+                                <tr>
+                                <td id="totalpay" style="padding:0">
+                                </td>
+                                </tr>
+                                </table>
+                        <input type="submit" id="button" value="Payment" class="btn submitbtn" style="background:#1abc9c"/>
+                                                                                            </div>
+                            <input type="hidden" name="youpaymoney" id="youpaymoney"/>
+                            <br>
+                            <br>
+                                       
+                            <p class="inline-block small-meta" style="text-align: center; color:white" >By clicking this button, you agree to gyankhazana<br> 
+                                <a href="terms&conditions.html" target="_blank" rel="noopener noreferrer" style="color:white">Anti-spam Policy &amp; Terms of Use</a>.</p>
+                            
+                        </form>
+                        <div class="row">
+                                                        <div class="input-field col s6">
+                        
+                               <img src="images/mobi.png" style="height:30px"/>
+                               </div>
+                                                               <div class="input-field col s6">
+                               
+                               <img src="images/freecharge.jpeg" style="height:50px"/>
+                               </div>
+                                 
+                         
+                                        </div>
+
+<div class="row">
+                                                        <div class="input-field col s6">
+                        
+                               <img src="images/visa.png" style="height:40px"/>
+                               </div>
+                                                               <div class="input-field col s6">
+                               
+                               <img src="images/ola.png" style="width:120px;height:40px"/>
+                               </div>
+                                 
+                         </div>
+                         <div class="row">
+                         <div class="input-field col s6">
+                               
+                                <img src="images/Jio.png" style="height:50px" />
+                               </div>
+                         
+                         <div class="input-field col s3">
+                               
+                                <img src="images/upi.png" style="height:50px" />
+                               </div>
+                                        </div>
+
+
+                </div>
+            </div>
+            
+        </div>
+
+		<script>
+		function function1(){
+document.getElementById("couponmsg").style.display="block";
+}
+		</script>
+</body>
+</html>
+
