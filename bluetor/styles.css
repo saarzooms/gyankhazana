@@ -1,0 +1,1151 @@
+ body {
+	margin: 0;
+	padding: 0;
+	
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1908px;
+	 height: 11220px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #HeaderImage 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 11220px;
+	 z-index:1;
+} 
+
+ #Header 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1909px;
+	 height: 247px;
+	 z-index:2;
+} 
+
+ #Logo 
+{ 
+	 left: 192px; 
+	 top: 2px; 
+	 position: absolute; 
+	 width: 490px;
+	 height: 246px;
+	 z-index:3;
+} 
+
+ #Login 
+{ 
+	 left: 1375px; 
+	 top: 108px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 140px;
+	 z-index:4;
+} 
+
+ #subscribe 
+{ 
+	 left: 1045px; 
+	 top: 108px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 140px;
+	 z-index:5;
+} 
+
+ #Blog 
+{ 
+	 left: 1210px; 
+	 top: 108px; 
+	 position: absolute; 
+	 width: 165px;
+	 height: 140px;
+	 z-index:6;
+} 
+
+ #Home 
+{ 
+	 left: 887px; 
+	 top: 81px; 
+	 position: absolute; 
+	 width: 159px;
+	 height: 167px;
+	 z-index:7;
+} 
+
+ #Image 
+{ 
+	 left: 0px; 
+	 top: 247px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 1091px;
+	 z-index:8;
+} 
+
+ #ArrowLeft 
+{ 
+	 left: 0px; 
+	 top: 752px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 78px;
+	 z-index:9;
+} 
+
+ #ArrowRight 
+{ 
+	 left: 1871px; 
+	 top: 752px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 78px;
+	 z-index:10;
+} 
+
+ #Button 
+{ 
+	 left: 772px; 
+	 top: 943px; 
+	 position: absolute; 
+	 width: 363px;
+	 height: 67px;
+	 z-index:11;
+} 
+
+ #INDIAS1STSMSBASEDVID 
+{ 
+	 left: 498px; 
+	 top: 739px; 
+	 position: absolute; 
+	 width: 910px;
+	 height: 33px;
+	 z-index:12;
+} 
+
+ #EngagingIdeasForYour 
+{ 
+	 left: 428px; 
+	 top: 493px; 
+	 position: absolute; 
+	 width: 1052px;
+	 height: 193px;
+	 z-index:13;
+} 
+
+ #BlueBG 
+{ 
+	 left: -1px; 
+	 top: 1338px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 1091px;
+	 z-index:14;
+} 
+
+ #KidRedTshirt 
+{ 
+	 left: 214px; 
+	 top: 1617px; 
+	 position: absolute; 
+	 width: 369px;
+	 height: 784px;
+	 z-index:15;
+} 
+
+ #MobileMockup 
+{ 
+	 left: 583px; 
+	 top: 1593px; 
+	 position: absolute; 
+	 width: 379px;
+	 height: 828px;
+	 z-index:16;
+} 
+
+ #WhatisGyanKhazana 
+{ 
+	 left: 600px; 
+	 top: 1436px; 
+	 position: absolute; 
+	 width: 704px;
+	 height: 75px;
+	 z-index:17;
+} 
+
+ #Indias1stSMSbasedkno 
+{ 
+	 left: 1011px; 
+	 top: 1742px; 
+	 position: absolute; 
+	 width: 787px;
+	 height: 305px;
+	 z-index:18;
+} 
+
+ #JoinNowButton 
+{ 
+	 left: 1226px; 
+	 top: 2133px; 
+	 position: absolute; 
+	 width: 363px;
+	 height: 67px;
+	 z-index:19;
+} 
+
+ #BGWhite 
+{ 
+	 left: 0px; 
+	 top: 2424px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 1311px;
+	 z-index:20;
+} 
+
+ #PlaneVector 
+{ 
+	 left: 304px; 
+	 top: 2776px; 
+	 position: absolute; 
+	 width: 1400px;
+	 height: 571px;
+	 z-index:21;
+} 
+
+ #ChooseAge 
+{ 
+	 left: 414px; 
+	 top: 2679px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:22;
+} 
+
+ #Subscribe 
+{ 
+	 left: 826px; 
+	 top: 2679px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:23;
+} 
+
+ #GetDailySMS 
+{ 
+	 left: 1240px; 
+	 top: 2679px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:24;
+} 
+
+ #WatchVideo 
+{ 
+	 left: 414px; 
+	 top: 3153px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:25;
+} 
+
+ #DiscussWith 
+{ 
+	 left: 826px; 
+	 top: 3153px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:26;
+} 
+
+ #MakeYourBond 
+{ 
+	 left: 1241px; 
+	 top: 3153px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:27;
+} 
+
+ #PencileVector 
+{ 
+	 left: 1664px; 
+	 top: 2935px; 
+	 position: absolute; 
+	 width: 207px;
+	 height: 675px;
+	 z-index:28;
+} 
+
+ #G 
+{ 
+	 left: 156px; 
+	 top: 3591px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 117px;
+	 z-index:29;
+} 
+
+ #layer_456 
+{ 
+	 left: 68px; 
+	 top: 2485px; 
+	 position: absolute; 
+	 width: 306px;
+	 height: 94px;
+	 z-index:30;
+} 
+
+ #GreenIcon 
+{ 
+	 left: 1416px; 
+	 top: 2470px; 
+	 position: absolute; 
+	 width: 186px;
+	 height: 114px;
+	 z-index:31;
+} 
+
+ #layer_32 
+{ 
+	 left: 152px; 
+	 top: 2975px; 
+	 position: absolute; 
+	 width: 125px;
+	 height: 49px;
+	 z-index:32;
+} 
+
+ #layer_33 
+{ 
+	 left: 157px; 
+	 top: 3108px; 
+	 position: absolute; 
+	 width: 99px;
+	 height: 99px;
+	 z-index:33;
+} 
+
+ #layer_1 
+{ 
+	 left: 695px; 
+	 top: 2856px; 
+	 position: absolute; 
+	 width: 506px;
+	 height: 304px;
+	 z-index:34;
+} 
+
+ #HowItWorks 
+{ 
+	 left: 735px; 
+	 top: 2524px; 
+	 position: absolute; 
+	 width: 445px;
+	 height: 59px;
+	 z-index:35;
+} 
+
+ #ChooseAge_0 
+{ 
+	 left: 413px; 
+	 top: 2979px; 
+	 position: absolute; 
+	 width: 254px;
+	 height: 50px;
+	 z-index:36;
+} 
+
+ #Subscribe_0 
+{ 
+	 left: 854px; 
+	 top: 2979px; 
+	 position: absolute; 
+	 width: 205px;
+	 height: 40px;
+	 z-index:37;
+} 
+
+ #GetDailySMS_0 
+{ 
+	 left: 1212px; 
+	 top: 2979px; 
+	 position: absolute; 
+	 width: 316px;
+	 height: 52px;
+	 z-index:38;
+} 
+
+ #MakeYourBondStronger 
+{ 
+	 left: 1203px; 
+	 top: 3450px; 
+	 position: absolute; 
+	 width: 342px;
+	 height: 105px;
+	 z-index:39;
+} 
+
+ #DiscussWithYourChild 
+{ 
+	 left: 826px; 
+	 top: 3451px; 
+	 position: absolute; 
+	 width: 268px;
+	 height: 94px;
+	 z-index:40;
+} 
+
+ #WatchVideo_0 
+{ 
+	 left: 414px; 
+	 top: 3451px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 40px;
+	 z-index:41;
+} 
+
+ #PinkBG 
+{ 
+	 left: 0px; 
+	 top: 3737px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 1304px;
+	 z-index:42;
+} 
+
+ #HereisWhatTheywillLe 
+{ 
+	 left: 520px; 
+	 top: 3839px; 
+	 position: absolute; 
+	 width: 854px;
+	 height: 76px;
+	 z-index:43;
+} 
+
+ #Science 
+{ 
+	 left: 463px; 
+	 top: 4334px; 
+	 position: absolute; 
+	 width: 163px;
+	 height: 40px;
+	 z-index:44;
+} 
+
+ #Maths 
+{ 
+	 left: 896px; 
+	 top: 4331px; 
+	 position: absolute; 
+	 width: 127px;
+	 height: 40px;
+	 z-index:45;
+} 
+
+ #GeneralKnowledge 
+{ 
+	 left: 1171px; 
+	 top: 4333px; 
+	 position: absolute; 
+	 width: 400px;
+	 height: 51px;
+	 z-index:46;
+} 
+
+ #Geography 
+{ 
+	 left: 434px; 
+	 top: 4807px; 
+	 position: absolute; 
+	 width: 224px;
+	 height: 53px;
+	 z-index:47;
+} 
+
+ #History 
+{ 
+	 left: 883px; 
+	 top: 4806px; 
+	 position: absolute; 
+	 width: 152px;
+	 height: 54px;
+	 z-index:48;
+} 
+
+ #Arts 
+{ 
+	 left: 1323px; 
+	 top: 4809px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 38px;
+	 z-index:49;
+} 
+
+ #Science_0 
+{ 
+	 left: 414px; 
+	 top: 4033px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:50;
+} 
+
+ #Maths_0 
+{ 
+	 left: 828px; 
+	 top: 4035px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:51;
+} 
+
+ #GeneralKnowledge_0 
+{ 
+	 left: 1240px; 
+	 top: 4033px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:52;
+} 
+
+ #Geography_0 
+{ 
+	 left: 414px; 
+	 top: 4504px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:53;
+} 
+
+ #History_0 
+{ 
+	 left: 828px; 
+	 top: 4504px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:54;
+} 
+
+ #Arts_0 
+{ 
+	 left: 1240px; 
+	 top: 4510px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 238px;
+	 z-index:55;
+} 
+
+ #WhyGyanKhazanaBG 
+{ 
+	 left: -1px; 
+	 top: 5044px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 1312px;
+	 z-index:56;
+} 
+
+ #Girl 
+{ 
+	 left: 94px; 
+	 top: 5714px; 
+	 position: absolute; 
+	 width: 238px;
+	 height: 641px;
+	 z-index:57;
+} 
+
+ #ParentingBonding 
+{ 
+	 left: 453px; 
+	 top: 5300px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 277px;
+	 z-index:58;
+} 
+
+ #KnowledgeBooster 
+{ 
+	 left: 1154px; 
+	 top: 5299px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 277px;
+	 z-index:59;
+} 
+
+ #EnrichedContent 
+{ 
+	 left: 452px; 
+	 top: 5828px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 277px;
+	 z-index:60;
+} 
+
+ #AgeAppropriate 
+{ 
+	 left: 1154px; 
+	 top: 5832px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 277px;
+	 z-index:61;
+} 
+
+ #ABC 
+{ 
+	 left: 85px; 
+	 top: 5134px; 
+	 position: absolute; 
+	 width: 285px;
+	 height: 117px;
+	 z-index:62;
+} 
+
+ #MultiplyIcon 
+{ 
+	 left: 151px; 
+	 top: 5453px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 114px;
+	 z-index:63;
+} 
+
+ #Testtube 
+{ 
+	 left: 880px; 
+	 top: 5804px; 
+	 position: absolute; 
+	 width: 129px;
+	 height: 156px;
+	 z-index:64;
+} 
+
+ #Math 
+{ 
+	 left: 1707px; 
+	 top: 5158px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 240px;
+	 z-index:65;
+} 
+
+ #Gloab 
+{ 
+	 left: 1616px; 
+	 top: 5742px; 
+	 position: absolute; 
+	 width: 175px;
+	 height: 271px;
+	 z-index:66;
+} 
+
+ #WhyGyanKhazana 
+{ 
+	 left: 652px; 
+	 top: 5143px; 
+	 position: absolute; 
+	 width: 605px;
+	 height: 76px;
+	 z-index:67;
+} 
+
+ #ParentingBonding_0 
+{ 
+	 left: 391px; 
+	 top: 5616px; 
+	 position: absolute; 
+	 width: 431px;
+	 height: 51px;
+	 z-index:68;
+} 
+
+ #Everydayspendsomequa 
+{ 
+	 left: 381px; 
+	 top: 5677px; 
+	 position: absolute; 
+	 width: 431px;
+	 height: 96px;
+	 z-index:69;
+} 
+
+ #EngagechildrenwithKn 
+{ 
+	 left: 1087px; 
+	 top: 5675px; 
+	 position: absolute; 
+	 width: 437px;
+	 height: 96px;
+	 z-index:70;
+} 
+
+ #KnowledgeBooster_0 
+{ 
+	 left: 1102px; 
+	 top: 5614px; 
+	 position: absolute; 
+	 width: 411px;
+	 height: 51px;
+	 z-index:71;
+} 
+
+ #EnrichedContent_0 
+{ 
+	 left: 426px; 
+	 top: 6140px; 
+	 position: absolute; 
+	 width: 363px;
+	 height: 41px;
+	 z-index:72;
+} 
+
+ #AgeAppropriate_0 
+{ 
+	 left: 1130px; 
+	 top: 6143px; 
+	 position: absolute; 
+	 width: 350px;
+	 height: 49px;
+	 z-index:73;
+} 
+
+ #Enrichedcontentwritt 
+{ 
+	 left: 392px; 
+	 top: 6202px; 
+	 position: absolute; 
+	 width: 410px;
+	 height: 63px;
+	 z-index:74;
+} 
+
+ #Asperthechildsageakn 
+{ 
+	 left: 1133px; 
+	 top: 6201px; 
+	 position: absolute; 
+	 width: 343px;
+	 height: 95px;
+	 z-index:75;
+} 
+
+ #JOINUSTODAYBG 
+{ 
+	 left: 0px; 
+	 top: 6351px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 390px;
+	 z-index:76;
+} 
+
+ #Button_0 
+{ 
+	 left: 309px; 
+	 top: 6565px; 
+	 position: absolute; 
+	 width: 652px;
+	 height: 121px;
+	 z-index:77;
+} 
+
+ #Receiveknowledgeenri 
+{ 
+	 left: 72px; 
+	 top: 6418px; 
+	 position: absolute; 
+	 width: 1127px;
+	 height: 107px;
+	 z-index:78;
+} 
+
+ #Slide1 
+{ 
+	 left: 0px; 
+	 top: 6741px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 1091px;
+	 z-index:79;
+} 
+
+ #BlueBGRecommendedByE 
+{ 
+	 left: -2px; 
+	 top: 12674px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 1091px;
+	 z-index:80;
+} 
+
+ #Cloud 
+{ 
+	 left: 430px; 
+	 top: 12840px; 
+	 position: absolute; 
+	 width: 1388px;
+	 height: 817px;
+	 z-index:81;
+} 
+
+ #Books 
+{ 
+	 left: 1431px; 
+	 top: 7578px; 
+	 position: absolute; 
+	 width: 444px;
+	 height: 249px;
+	 z-index:82;
+} 
+
+ #ArrowLeftcopy 
+{ 
+	 left: 0px; 
+	 top: 7325px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 78px;
+	 z-index:83;
+} 
+
+ #ArrowRightcopy 
+{ 
+	 left: 1871px; 
+	 top: 7325px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 78px;
+	 z-index:84;
+} 
+
+ #RecommendedByExperts 
+{ 
+	 left: 559px; 
+	 top: 6842px; 
+	 position: absolute; 
+	 width: 793px;
+	 height: 74px;
+	 z-index:85;
+} 
+
+ #WhiteCheckBG 
+{ 
+	 left: -3px; 
+	 top: 7836px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 1087px;
+	 z-index:86;
+} 
+
+ #ArrowLeftcopy2 
+{ 
+	 left: 0px; 
+	 top: 8338px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 78px;
+	 z-index:87;
+} 
+
+ #ArrowRightcopy2 
+{ 
+	 left: 1871px; 
+	 top: 8338px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 78px;
+	 z-index:88;
+} 
+
+ #DBOX 
+{ 
+	 left: 185px; 
+	 top: 8133px; 
+	 position: absolute; 
+	 width: 1137px;
+	 height: 561px;
+	 z-index:89;
+} 
+
+ #ParentIMAGE 
+{ 
+	 left: 1341px; 
+	 top: 8146px; 
+	 position: absolute; 
+	 width: 453px;
+	 height: 471px;
+	 z-index:90;
+} 
+
+ #Name 
+{ 
+	 left: 1306px; 
+	 top: 8630px; 
+	 position: absolute; 
+	 width: 480px;
+	 height: 78px;
+	 z-index:91;
+} 
+
+ #LovedByParents 
+{ 
+	 left: 691px; 
+	 top: 7932px; 
+	 position: absolute; 
+	 width: 527px;
+	 height: 75px;
+	 z-index:92;
+} 
+
+ #Mydaughtereagerlywai 
+{ 
+	 left: 271px; 
+	 top: 8263px; 
+	 position: absolute; 
+	 width: 978px;
+	 height: 256px;
+	 z-index:93;
+} 
+
+ #YZ 
+{ 
+	 left: 124px; 
+	 top: 8749px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 110px;
+	 z-index:94;
+} 
+
+ #toy 
+{ 
+	 left: 834px; 
+	 top: 8766px; 
+	 position: absolute; 
+	 width: 232px;
+	 height: 155px;
+	 z-index:95;
+} 
+
+ #f 
+{ 
+	 left: 1711px; 
+	 top: 7897px; 
+	 position: absolute; 
+	 width: 78px;
+	 height: 105px;
+	 z-index:96;
+} 
+
+ #layer_123 
+{ 
+	 left: 1534px; 
+	 top: 8806px; 
+	 position: absolute; 
+	 width: 239px;
+	 height: 82px;
+	 z-index:97;
+} 
+
+ #ArrowUP 
+{ 
+	 left: 1755px; 
+	 top: 8853px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 64px;
+	 z-index:98;
+} 
+
+ #PinkBGSubscriptionPl 
+{ 
+	 left: 0px; 
+	 top: 8920px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 1093px;
+	 z-index:99;
+} 
+
+ #GIRlSubscriptionPlan 
+{ 
+	 left: 1565px; 
+	 top: 9339px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 641px;
+	 z-index:100;
+} 
+
+ #BooksXjpg 
+{ 
+	 left: 18px; 
+	 top: 9651px; 
+	 position: absolute; 
+	 width: 389px;
+	 height: 316px;
+	 z-index:101;
+} 
+
+ #Form 
+{ 
+	 left: 384px; 
+	 top: 9124px; 
+	 position: absolute; 
+	 width: 1160px;
+	 height: 886px;
+	 z-index:102;
+} 
+
+ #SubscriptionPlan 
+{ 
+	 left: 688px; 
+	 top: 9022px; 
+	 position: absolute; 
+	 width: 528px;
+	 height: 73px;
+	 z-index:103;
+} 
+
+ #Text 
+{ 
+	 left: 462px; 
+	 top: 9182px; 
+	 position: absolute; 
+	 width: 998px;
+	 height: 829px;
+	 z-index:104;
+} 
+
+ #PREFOOTER 
+{ 
+	 left: 0px; 
+	 top: 10010px; 
+	 position: absolute; 
+	 width: 1907px;
+	 height: 535px;
+	 z-index:105;
+} 
+
+ #FooterBG 
+{ 
+	 left: -6px; 
+	 top: 10546px; 
+	 position: absolute; 
+	 width: 1908px;
+	 height: 614px;
+	 z-index:106;
+} 
+
+ #LOGO 
+{ 
+	 left: 46px; 
+	 top: 10715px; 
+	 position: absolute; 
+	 width: 486px;
+	 height: 223px;
+	 z-index:107;
+} 
+
+ #Twitter 
+{ 
+	 left: 760px; 
+	 top: 10915px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:108;
+} 
+
+ #FB 
+{ 
+	 left: 709px; 
+	 top: 10916px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:109;
+} 
+
+ #G_0 
+{ 
+	 left: 864px; 
+	 top: 10917px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:110;
+} 
+
+ #Lin 
+{ 
+	 left: 811px; 
+	 top: 10915px; 
+	 position: absolute; 
+	 width: 39px;
+	 height: 39px;
+	 z-index:111;
+} 
+
+@media screen and (min-width:769px) and (max-width:992px)
+{
+}
+
+@media screen and (min-width:641px) and (max-width:768px)
+{
+}
+
+@media screen and (min-width:481px)  and (max-width:640px)
+{
+}
+
+@media screen and (min-width:321px)  and (max-width:480px)
+{
+
+
+}
+
+@media screen and (max-width:320px)
+{
+
+}
